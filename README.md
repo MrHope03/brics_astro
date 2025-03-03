@@ -13,3 +13,20 @@ git clone https://github.com/Danselem/brics_astro
 ```bash
 cd brics_astro
 ```
+
+**Create Virtual Environment**
+
+```bash
+python3.10 -m venv .venv
+```
+
+**Activate the environment**
+```bash
+source .venv/bin/activate
+```
+
+**Install Dependencies**
+
+```bash
+pip install -r requirements.txt
+```
