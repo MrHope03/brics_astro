@@ -60,7 +60,7 @@ To participate fully in the hands-on exercises, you must install the necessary s
         *   Open your Terminal (macOS/Linux) or Command Prompt/Anaconda Prompt (Windows).
         *   Type `python --version` and press Enter. You should see a Python version corresponding to the Anaconda installation (e.g., `Python 3.9.7`).
         *   Type `conda list anaconda$` and press Enter. This checks if the core Anaconda package is installed.
-        *   Type `jupyter notebook` and press Enter. This should launch Jupyter Notebook in your web browser.
+        *   Type `jupyter lab` and press Enter. This should launch Jupyter Notebook in your web browser.
 
 4.  **Troubleshooting:**
     *   Installation issues are common, especially with path configurations.
