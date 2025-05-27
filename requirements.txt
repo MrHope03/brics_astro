@@ -9,3 +9,6 @@ astroquery
 lightkurve
 ipython
 jupyterlab
+emcee
+corner
+lifelines
