@@ -12,3 +12,6 @@ jupyterlab
 emcee
 corner
 lifelines
+ipyaladin
+mocpy
+pyvo
