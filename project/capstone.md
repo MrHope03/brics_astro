@@ -1,6 +1,6 @@
 # Capstone Project Guidelines – BRICS Astronomy/IDIA Data Analytics
 
-## 📌 Objective
+## Objective
 The capstone project is an opportunity for participants to apply their data analytics skills to a research or real-world problem, ideally using astronomy-related data but open to other domains. Projects should demonstrate proficiency in data exploration, visualization, modeling (if applicable), and interpretation of results.
 
 ---
@@ -41,6 +41,7 @@ The capstone project is an opportunity for participants to apply their data anal
 - [ESA Gaia Archive](https://gea.esac.esa.int/archive/)
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
 - [Astroquery (Python)](https://astroquery.readthedocs.io/en/latest/)
+- [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR)
 
 ### Other Open Datasets
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
